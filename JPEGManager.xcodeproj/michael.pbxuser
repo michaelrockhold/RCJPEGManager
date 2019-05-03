@@ -1,0 +1,175 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeTarget = D2AAC07D0554694100DB518D /* JPEGManager */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* JPEGManager */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 4C21156011FA477E00D8BDF2 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					238,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					508,
+					261,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303527139;
+			PBXWorkspaceStateSaveDate = 303527139;
+		};
+		sourceControlManager = 4C21155F11FA477E00D8BDF2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4C21155F11FA477E00D8BDF2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4C21156011FA477E00D8BDF2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C21171611FA545300D8BDF2 /* jhead.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 3710}}";
+			sepNavSelRange = "{3142, 17}";
+			sepNavVisRange = "{2451, 903}";
+			sepNavWindowFrame = "{{13, 0}, {510, 778}}";
+		};
+	};
+	4C21171C11FA545300D8BDF2 /* JPEGManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1207, 2142}}";
+			sepNavSelRange = "{4613, 0}";
+			sepNavVisRange = "{3796, 1399}";
+			sepNavWindowFrame = "{{14, 4}, {1266, 769}}";
+		};
+	};
+	4C92372E11FF4D0E00FBECE2 /* Section.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1207, 641}}";
+			sepNavSelRange = "{618, 0}";
+			sepNavVisRange = "{0, 618}";
+			sepNavWindowFrame = "{{14, 4}, {1266, 769}}";
+		};
+	};
+	4C92372F11FF4D0E00FBECE2 /* Section.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {803, 650}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRange = "{0, 683}";
+			sepNavWindowFrame = "{{8, 0}, {839, 778}}";
+		};
+	};
+	4C92376811FF4F4200FBECE2 /* ExifReader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {780, 658}}";
+			sepNavSelRange = "{973, 0}";
+			sepNavVisRange = "{0, 973}";
+			sepNavWindowFrame = "{{19, 0}, {839, 778}}";
+		};
+	};
+	4C92376911FF4F4200FBECE2 /* ExifReader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1207, 13412}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 1467}";
+			sepNavWindowFrame = "{{5, 9}, {1266, 769}}";
+		};
+	};
+	4C92376E11FF4F4C00FBECE2 /* ExifWriter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 728}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{39, 1594}";
+			sepNavWindowFrame = "{{19, 0}, {839, 778}}";
+		};
+	};
+	4C92376F11FF4F4C00FBECE2 /* ExifWriter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 2478}}";
+			sepNavSelRange = "{214, 0}";
+			sepNavVisRange = "{0, 1078}";
+			sepNavWindowFrame = "{{428, 0}, {839, 778}}";
+		};
+	};
+	4C92379C11FF546000FBECE2 /* TagTable.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {780, 1764}}";
+			sepNavSelRange = "{4996, 0}";
+			sepNavVisRange = "{0, 1587}";
+			sepNavWindowFrame = "{{410, 0}, {839, 778}}";
+		};
+	};
+	4C9237F611FF5A1A00FBECE2 /* JPEGManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1087, 17864}}";
+			sepNavSelRange = "{377, 33}";
+			sepNavVisRange = "{0, 985}";
+			sepNavWindowFrame = "{{6, 0}, {1164, 778}}";
+		};
+	};
+	4C9237F811FF5A2300FBECE2 /* jhead.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1087, 5698}}";
+			sepNavSelRange = "{7986, 0}";
+			sepNavVisRange = "{5136, 1418}";
+			sepNavWindowFrame = "{{19, 0}, {1063, 778}}";
+		};
+	};
+	4C9239951201017C00FBECE2 /* JPEGManagerException.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1087, 408}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 546}";
+			sepNavWindowFrame = "{{12, 0}, {1223, 778}}";
+		};
+	};
+	4C924105120A29D800FBECE2 /* JPEGManagerException.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 650}}";
+			sepNavSelRange = "{1203, 0}";
+			sepNavVisRange = "{0, 1211}";
+			sepNavWindowFrame = "{{205, 0}, {1063, 778}}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* JPEGManager */ = {
+		activeExec = 0;
+	};
+}

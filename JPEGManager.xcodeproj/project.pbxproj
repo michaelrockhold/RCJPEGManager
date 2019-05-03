@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4C21171D11FA545300D8BDF2 /* jhead.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C21171611FA545300D8BDF2 /* jhead.h */; };
+		4C21172311FA545300D8BDF2 /* JPEGManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C21171C11FA545300D8BDF2 /* JPEGManager.h */; };
+		4C92373011FF4D0E00FBECE2 /* Section.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C92372E11FF4D0E00FBECE2 /* Section.h */; };
+		4C92373111FF4D0E00FBECE2 /* Section.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C92372F11FF4D0E00FBECE2 /* Section.m */; };
+		4C92376A11FF4F4200FBECE2 /* ExifReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C92376811FF4F4200FBECE2 /* ExifReader.h */; };
+		4C92376B11FF4F4200FBECE2 /* ExifReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C92376911FF4F4200FBECE2 /* ExifReader.m */; };
+		4C92377011FF4F4C00FBECE2 /* ExifWriter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C92376E11FF4F4C00FBECE2 /* ExifWriter.h */; };
+		4C92377111FF4F4C00FBECE2 /* ExifWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C92376F11FF4F4C00FBECE2 /* ExifWriter.m */; };
+		4C92379D11FF546000FBECE2 /* TagTable.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C92379C11FF546000FBECE2 /* TagTable.h */; };
+		4C9237F711FF5A1A00FBECE2 /* JPEGManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9237F611FF5A1A00FBECE2 /* JPEGManager.m */; };
+		4C9237F911FF5A2300FBECE2 /* jhead.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9237F811FF5A2300FBECE2 /* jhead.m */; };
+		4C9237FB11FF5A3000FBECE2 /* gpsinfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9237FA11FF5A3000FBECE2 /* gpsinfo.m */; };
+		4C9237FD11FF5A3600FBECE2 /* exif.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9237FC11FF5A3600FBECE2 /* exif.m */; };
+		4C9239971201017C00FBECE2 /* JPEGManagerException.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C9239951201017C00FBECE2 /* JPEGManagerException.h */; };
+		4C924106120A29D800FBECE2 /* JPEGManagerException.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C924105120A29D800FBECE2 /* JPEGManagerException.m */; };
+		AA747D9F0F9514B9006C5449 /* JPEGManager_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* JPEGManager_Prefix.pch */; };
+		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4C21171611FA545300D8BDF2 /* jhead.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = jhead.h; sourceTree = "<group>"; };
+		4C21171C11FA545300D8BDF2 /* JPEGManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPEGManager.h; sourceTree = "<group>"; };
+		4C92372E11FF4D0E00FBECE2 /* Section.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Section.h; sourceTree = "<group>"; };
+		4C92372F11FF4D0E00FBECE2 /* Section.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Section.m; sourceTree = "<group>"; };
+		4C92376811FF4F4200FBECE2 /* ExifReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExifReader.h; sourceTree = "<group>"; };
+		4C92376911FF4F4200FBECE2 /* ExifReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExifReader.m; sourceTree = "<group>"; };
+		4C92376E11FF4F4C00FBECE2 /* ExifWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExifWriter.h; sourceTree = "<group>"; };
+		4C92376F11FF4F4C00FBECE2 /* ExifWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExifWriter.m; sourceTree = "<group>"; };
+		4C92379C11FF546000FBECE2 /* TagTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TagTable.h; sourceTree = "<group>"; };
+		4C9237F611FF5A1A00FBECE2 /* JPEGManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JPEGManager.m; sourceTree = "<group>"; };
+		4C9237F811FF5A2300FBECE2 /* jhead.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = jhead.m; sourceTree = "<group>"; };
+		4C9237FA11FF5A3000FBECE2 /* gpsinfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gpsinfo.m; sourceTree = "<group>"; };
+		4C9237FC11FF5A3600FBECE2 /* exif.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = exif.m; sourceTree = "<group>"; };
+		4C9239951201017C00FBECE2 /* JPEGManagerException.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPEGManagerException.h; sourceTree = "<group>"; };
+		4C924083120A202A00FBECE2 /* JPEGManagerErrors.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = JPEGManagerErrors.strings; sourceTree = "<group>"; };
+		4C924105120A29D800FBECE2 /* JPEGManagerException.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JPEGManagerException.m; sourceTree = "<group>"; };
+		AA747D9E0F9514B9006C5449 /* JPEGManager_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPEGManager_Prefix.pch; sourceTree = SOURCE_ROOT; };
+		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D2AAC07E0554694100DB518D /* libJPEGManager.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libJPEGManager.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2AAC07C0554694100DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC07E0554694100DB518D /* libJPEGManager.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* JPEGManager */ = {
+			isa = PBXGroup;
+			children = (
+				32C88DFF0371C24200C91783 /* Sources */,
+				4C924082120A201C00FBECE2 /* Resources */,
+				0867D69AFE84028FC02AAC07 /* Frameworks */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = JPEGManager;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AACBBE490F95108600F1A2B1 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		32C88DFF0371C24200C91783 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				AA747D9E0F9514B9006C5449 /* JPEGManager_Prefix.pch */,
+				4C21171611FA545300D8BDF2 /* jhead.h */,
+				4C9237F811FF5A2300FBECE2 /* jhead.m */,
+				4C21171C11FA545300D8BDF2 /* JPEGManager.h */,
+				4C9237F611FF5A1A00FBECE2 /* JPEGManager.m */,
+				4C92372E11FF4D0E00FBECE2 /* Section.h */,
+				4C92372F11FF4D0E00FBECE2 /* Section.m */,
+				4C92376811FF4F4200FBECE2 /* ExifReader.h */,
+				4C92376911FF4F4200FBECE2 /* ExifReader.m */,
+				4C92376E11FF4F4C00FBECE2 /* ExifWriter.h */,
+				4C92376F11FF4F4C00FBECE2 /* ExifWriter.m */,
+				4C92379C11FF546000FBECE2 /* TagTable.h */,
+				4C9237FC11FF5A3600FBECE2 /* exif.m */,
+				4C9237FA11FF5A3000FBECE2 /* gpsinfo.m */,
+				4C9239951201017C00FBECE2 /* JPEGManagerException.h */,
+				4C924105120A29D800FBECE2 /* JPEGManagerException.m */,
+			);
+			name = Sources;
+			sourceTree = "<group>";
+		};
+		4C924082120A201C00FBECE2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4C924083120A202A00FBECE2 /* JPEGManagerErrors.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC07A0554694100DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA747D9F0F9514B9006C5449 /* JPEGManager_Prefix.pch in Headers */,
+				4C21171D11FA545300D8BDF2 /* jhead.h in Headers */,
+				4C21172311FA545300D8BDF2 /* JPEGManager.h in Headers */,
+				4C92373011FF4D0E00FBECE2 /* Section.h in Headers */,
+				4C92376A11FF4F4200FBECE2 /* ExifReader.h in Headers */,
+				4C92377011FF4F4C00FBECE2 /* ExifWriter.h in Headers */,
+				4C92379D11FF546000FBECE2 /* TagTable.h in Headers */,
+				4C9239971201017C00FBECE2 /* JPEGManagerException.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC07D0554694100DB518D /* JPEGManager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "JPEGManager" */;
+			buildPhases = (
+				D2AAC07A0554694100DB518D /* Headers */,
+				D2AAC07B0554694100DB518D /* Sources */,
+				D2AAC07C0554694100DB518D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JPEGManager;
+			productName = JPEGManager;
+			productReference = D2AAC07E0554694100DB518D /* libJPEGManager.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "JPEGManager" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0867D691FE84028FC02AAC07 /* JPEGManager */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC07D0554694100DB518D /* JPEGManager */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC07B0554694100DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C92373111FF4D0E00FBECE2 /* Section.m in Sources */,
+				4C92376B11FF4F4200FBECE2 /* ExifReader.m in Sources */,
+				4C92377111FF4F4C00FBECE2 /* ExifWriter.m in Sources */,
+				4C9237F711FF5A1A00FBECE2 /* JPEGManager.m in Sources */,
+				4C9237F911FF5A2300FBECE2 /* jhead.m in Sources */,
+				4C9237FB11FF5A3000FBECE2 /* gpsinfo.m in Sources */,
+				4C9237FD11FF5A3600FBECE2 /* exif.m in Sources */,
+				4C924106120A29D800FBECE2 /* JPEGManagerException.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB921F08733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/JPEGManager.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = JPEGManager_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = JPEGManager;
+			};
+			name = Debug;
+		};
+		1DEB922008733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DSTROOT = /tmp/JPEGManager.dst;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = JPEGManager_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = JPEGManager;
+			};
+			name = Release;
+		};
+		1DEB922308733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "..//**";
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.0;
+				SYMROOT = ../build;
+			};
+			name = Debug;
+		};
+		1DEB922408733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "..//**";
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.0;
+				SYMROOT = ../build;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "JPEGManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB921F08733DC00010E9CD /* Debug */,
+				1DEB922008733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "JPEGManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB922308733DC00010E9CD /* Debug */,
+				1DEB922408733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

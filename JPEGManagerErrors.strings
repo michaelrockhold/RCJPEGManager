@@ -1,0 +1,30 @@
+/* 
+   JPEGManagerError.strings
+   HereIAm
+
+   Created by Michael Rockhold on 1/26/10.
+   Copyright 2010 The Rockhold Company. All rights reserved.
+ */
+
+"Illegal format code %@ in EXIF header" = "Illegal format code %@ in EXIF header";
+"Undefined rotation value %@ in EXIF" = "Undefined rotation value %@ in EXIF";
+"size of comment section is larger than allowed" = "size of comment section is larger than allowed";
+"IPTC type signature mismatch" = "IPTC type signature mismatch";
+"Pointer corruption in IPTC" = "Pointer corruption in IPTC";
+"Invalid EXIF header" = "Invalid EXIF header";
+"Invalid EXIF alignment marker" = "Invalid EXIF alignment marker";
+"Illegal number format %@ for EXIF tag %@" = "Illegal number format %@ for EXIF tag %@";
+"Illegal value pointer for EXIF tag %@" = "Illegal value pointer for EXIF tag %@";
+"Inappropriate format (%@) for EXIF GPS coordinates!" = "Inappropriate format (%@) for EXIF GPS coordinates!";
+"Invalid offset (%@) for EXIF IFD value" = "Invalid offset (%@) for EXIF IFD value";
+"Suspicious offset (%@) for first EXIF IFD value" = "Suspicious offset (%@) for first EXIF IFD value";
+"Corrupt EXIF header: Maximum EXIF directory nesting exceeded (%@)" = "Corrupt EXIF header: Maximum EXIF directory nesting exceeded (%@)";
+"Illegally sized EXIF subdirectory (%@ entries)" = "Illegally sized EXIF subdirectory (%@ entries)";
+"Illegal number format %@ for tag %@ in EXIF" = "Illegal number format %@ for tag %@ in EXIF";
+"Too many components %@ for tag %@ in EXIF" = "Too many components %@ for tag %@ in EXIF";
+"Illegal sub-directory link for EXIF offset, interop ofset, or GPS info" = "Illegal sub-directory link for EXIF offset, interop ofset, or GPS info";
+"Invalid JPEG file: no sections" = "Invalid JPEG file: no sections";
+"Not valid JPEG file data" = "Not valid JPEG file data";
+"JPEG section has invalid too-short length in header" = "JPEG section has invalid too-short length in header";
+"JPEG section has invalid too-long length in header" = "JPEG section has invalid too-long length in header";
+"JPEG data does not appear to contain an image" = "JPEG data does not appear to contain an image";
